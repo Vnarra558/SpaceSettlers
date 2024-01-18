@@ -42,8 +42,8 @@
 			<configFile>beacon-clientinit.xml</configFile>			
 		</HighLevelTeamConfig>
 		<HighLevelTeamConfig>
-			<teamName>DoNothingTeam</teamName>
-			<configFile>donothing-clientinit.xml</configFile>
+			<teamName>Venkat Narra Team</teamName>
+			<configFile>narr0004-clientinit.xml</configFile>
 		</HighLevelTeamConfig>		
 		<HighLevelTeamConfig>
 			<teamName>HeuristicMinerTeam</teamName>
@@ -55,7 +55,7 @@
 	<!-- Each team needs a base.  Optionally, you can initialize the location of the base -->
 	<bases>
 		<BaseConfig>
-			<teamName>DoNothingTeam</teamName>
+			<teamName>Venkat Narra Team</teamName>
 		</BaseConfig>
 		<BaseConfig>
 			<teamName>RandomClient</teamName>
